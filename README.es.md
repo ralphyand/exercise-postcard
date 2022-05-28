@@ -25,7 +25,7 @@ Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https:
 
 ![postcard preview](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true)
 
-> ✋ Aquí tienes el url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
+> ✋  url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
 ## Empieza por dibujar tu estrategia
 
